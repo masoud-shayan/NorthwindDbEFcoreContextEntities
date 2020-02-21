@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alekhandr0\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alekhandr0\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_NorthwindEntitiesLib.-101714019.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindEntitiesLib" t="IncludeFlat">
+      <e p="NorthwindEntitiesLib" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Category.cs" t="Include" />
+        <e p="Customer.cs" t="Include" />
+        <e p="Employee.cs" t="Include" />
+        <e p="NorthwindEntitiesLib.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="NorthwindEntitiesLib.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Order.cs" t="Include" />
+        <e p="OrderDetail.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="Shipper.cs" t="Include" />
+        <e p="Supplier.cs" t="Include" />
+      </e>
+      <e p="NorthwindEntitiesLib.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindEntitiesLib\NorthwindEntitiesLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindEntitiesLib\NorthwindEntitiesLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindEntitiesLib\NorthwindEntitiesLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindEntitiesLib\NorthwindEntitiesLib\obj\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb

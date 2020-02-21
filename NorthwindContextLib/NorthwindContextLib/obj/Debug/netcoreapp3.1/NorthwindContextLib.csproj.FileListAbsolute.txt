@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindContextLib.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindContextLib.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindContextLib.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.csproj.CopyComplete
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\NorthwindContextLib\NorthwindContextLib\obj\Debug\netcoreapp3.1\NorthwindContextLib.pdb

@@ -1,0 +1,56 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Alekhandr0\\Desktop\\dot-net-core\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib\\NorthwindContextLib.csproj",
+    "projectName": "NorthwindContextLib",
+    "projectPath": "C:\\Users\\Alekhandr0\\Desktop\\dot-net-core\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib\\NorthwindContextLib.csproj",
+    "outputPath": "C:\\Users\\Alekhandr0\\Desktop\\dot-net-core\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "C:\\Users\\Alekhandr0\\Desktop\\dot-net-core\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
+            "projectPath": "C:\\Users\\Alekhandr0\\Desktop\\dot-net-core\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+    }
+  }
+}
