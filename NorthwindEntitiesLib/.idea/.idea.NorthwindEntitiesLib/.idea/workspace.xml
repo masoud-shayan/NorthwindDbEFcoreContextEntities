@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bb9dec9-d37b-42cb-92d5-0101c3b58cda" name="Default Changelist" comment="" />
+    <list default="true" id="0bb9dec9-d37b-42cb-92d5-0101c3b58cda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NorthwindEntitiesLib/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NorthwindEntitiesLib/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/NorthwindEntitiesLib/Product.cs" root0="FORCE_HIGHLIGHTING" />
@@ -28,10 +33,12 @@
         <option value="$PROJECT_DIR$/NorthwindEntitiesLib/Product.cs" />
         <option value="$PROJECT_DIR$/NorthwindEntitiesLib/Shipper.cs" />
         <option value="$PROJECT_DIR$/NorthwindEntitiesLib/Supplier.cs" />
+        <option value="$PROJECT_DIR$/../.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1Y7crcBr6tlR30tJPQAOea5ZtNl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="ServiceViewManager">
@@ -64,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582297273127</updated>
       <workItem from="1582297275518" duration="867000" />
-      <workItem from="1582298997397" duration="2532000" />
+      <workItem from="1582298997397" duration="2631000" />
     </task>
     <servers />
   </component>
